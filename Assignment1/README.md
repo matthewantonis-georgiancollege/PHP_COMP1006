@@ -17,7 +17,7 @@
 - If the value is even, turn it into an odd value, and if it's odd, turn it into an even value.
 - Display the initial value for the mole, the rounded whole number in type float, and the odd or even value after.
 
-<img width="400" src="![image](https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/bbd7241f-03bb-4c86-8dc9-c13a52c56d93)">
+<img width="400" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/bbd7241f-03bb-4c86-8dc9-c13a52c56d93">
 
 ## Notes: 
 - Created using Visual Studio Code
