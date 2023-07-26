@@ -8,7 +8,7 @@
 - R is the gas constant with a value of 8.314
 - T is temperature.
 
-## What to expect
+## What to expect:
 - Ask the user to input the value for pressure P
 - Ask the user to enter the length, width, and height and automatically develop a variable to calculate the volume using those variables.
 - Ask the user for the temperature and add 273.14 to the value.
