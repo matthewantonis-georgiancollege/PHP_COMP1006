@@ -17,7 +17,7 @@
 - If the value is even, turn it into an odd value, and if it's odd, turn it into an even value.
 - Display the initial value for the mole, the rounded whole number in type float, and the odd or even value after.
 
-Notes: 
+## Notes: 
 - Created using Visual Studio Code
 
 ### Assignment Due Date: June 9th, 2023
