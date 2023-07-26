@@ -1,6 +1,6 @@
 # Assignment #1: Design an app to calculate the gas law
 
-## Instructions: 
+## Variables: 
 - Pv = nRT
 - Where P is pressure and a float value.
 - V is the volume in meters cube
