@@ -14,14 +14,14 @@
 
 ## Example: 
 <p align="center">
-<img width="400" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/6a585c57-e962-40b7-be54-893970859acc">
+<img width="500" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/6a585c57-e962-40b7-be54-893970859acc">
 <p/>
 
 Finisihed Product: 
 - To Use: Input "php assignment2.php" into the terminal to run.
 
 <p align="center">
-<img width="400" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/3d800f1f-a1fb-418b-940d-dde73ca7a1fd">
+<img width="500" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/3d800f1f-a1fb-418b-940d-dde73ca7a1fd">
 <p/>
 
 ## Notes: 
