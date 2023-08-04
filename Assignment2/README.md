@@ -17,7 +17,7 @@
 <img width="500" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/6a585c57-e962-40b7-be54-893970859acc">
 <p/>
 
-Finisihed Product: 
+Finished Product: 
 - To Use: Input "php assignment2.php" into the terminal to run.
 
 <p align="center">
