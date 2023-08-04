@@ -1,4 +1,4 @@
-# Assignment #2 Black Jack
+# Assignment #3 Black Jack
 
 ## Purpose of the Assignment: 
 - The purpose of the assignment is to create a blackjack game.
