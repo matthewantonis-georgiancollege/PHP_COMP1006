@@ -1,4 +1,4 @@
-# Assignment #2 App to Determine if a Person is Eligible for the Job
+# Assignment #2 Black Jack
 
 ## Purpose of the Assignment: 
 - The purpose of the assignment is to create a blackjack game.
