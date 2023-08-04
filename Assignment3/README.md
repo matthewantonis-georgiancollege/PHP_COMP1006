@@ -14,11 +14,6 @@
 - Create a method to play the game, ask the user for money to bet, and return money won or lost. (win adds to the amount left, loss subtracts from it).
 - Optional: When playing the game, it’s a user vs a dealer
 
-## Example: 
-<p align="center">
-<img width="500" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/6a585c57-e962-40b7-be54-893970859acc">
-<p/>
-
 Finished Product: 
 - To Use: Input "php blackjack.php" into the terminal to run.
 
