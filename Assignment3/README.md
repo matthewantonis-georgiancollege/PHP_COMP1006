@@ -18,7 +18,7 @@ Finished Product:
 - To Use: Input "php blackjack.php" into the terminal to run.
 
 <p align="center">
-<img width="500" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/31fcfb06-f2ce-453a-aeda-5ecdf35814f0">
+<img width="400" src="https://github.com/matthewantonis-georgiancollege/PHP_COMP1006/assets/122380719/31fcfb06-f2ce-453a-aeda-5ecdf35814f0">
 <p/>
 
 ## Notes: 
